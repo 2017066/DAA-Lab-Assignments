@@ -1,6 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;
-
 bool subset(vector<int> &arr,int n,int sum)
     {
         int t[n+1][sum+1];
